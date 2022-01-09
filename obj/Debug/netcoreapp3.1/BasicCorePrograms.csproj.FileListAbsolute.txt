@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\BasicCorePrograms\bin\Debug\netcoreapp3.1\BasicCorePrograms.exe
+C:\Users\Hp\source\repos\BasicCorePrograms\bin\Debug\netcoreapp3.1\BasicCorePrograms.deps.json
+C:\Users\Hp\source\repos\BasicCorePrograms\bin\Debug\netcoreapp3.1\BasicCorePrograms.runtimeconfig.json
+C:\Users\Hp\source\repos\BasicCorePrograms\bin\Debug\netcoreapp3.1\BasicCorePrograms.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\BasicCorePrograms\bin\Debug\netcoreapp3.1\BasicCorePrograms.dll
+C:\Users\Hp\source\repos\BasicCorePrograms\bin\Debug\netcoreapp3.1\BasicCorePrograms.pdb
+C:\Users\Hp\source\repos\BasicCorePrograms\obj\Debug\netcoreapp3.1\BasicCorePrograms.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\BasicCorePrograms\obj\Debug\netcoreapp3.1\BasicCorePrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\BasicCorePrograms\obj\Debug\netcoreapp3.1\BasicCorePrograms.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\BasicCorePrograms\obj\Debug\netcoreapp3.1\BasicCorePrograms.AssemblyInfo.cs
+C:\Users\Hp\source\repos\BasicCorePrograms\obj\Debug\netcoreapp3.1\BasicCorePrograms.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\BasicCorePrograms\obj\Debug\netcoreapp3.1\BasicCorePrograms.dll
+C:\Users\Hp\source\repos\BasicCorePrograms\obj\Debug\netcoreapp3.1\BasicCorePrograms.pdb
+C:\Users\Hp\source\repos\BasicCorePrograms\obj\Debug\netcoreapp3.1\BasicCorePrograms.genruntimeconfig.cache
